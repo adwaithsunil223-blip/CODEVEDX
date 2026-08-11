@@ -1,0 +1,4 @@
+id,household_size,previous_month_units,month,current_month_units
+1,4.0,230.0,march,100.0
+2,9.0,300.0,april,350.0
+3,5.0,300.0,march,200.0
